@@ -28,24 +28,25 @@ Full per-answer table: [`out/scoring_table.csv`](out/scoring_table.csv)
 
 ---
 
-## Example: how to get **Eldar (100%)**
+## Example: how to get **Eldar (100%)**, everyone else **0%**
 
-Answer only the Eldar block; leave everything else on **Neutral (3)**.
+Say **Agree** on only **3** Eldar questions; say **Disagree** on **all** remaining questions (including reverse Eldar items and every other faction).
 
 | # | Question | Answer |
 |---|---|---|
 | **11** | I am deeply interested in the study of culture and history. | **5** Agree |
 | **12** | I tend to be suspicious of people I do not know. | **5** Agree |
 | **13** | People are sometimes startled by the keenness of my memory. | **5** Agree |
-| **14** | Philosophical discussions are mostly boring. | **1** Disagree *(reverse)* |
-| **15** | I dislike going to art museums. | **1** Disagree *(reverse)* |
-| *all other questions* | — | **3** Neutral |
+| **14** | Philosophical discussions are mostly boring. | **1** Disagree *(reverse → still boosts Eldar)* |
+| **15** | I dislike going to art museums. | **1** Disagree *(reverse → still boosts Eldar)* |
+| *all other questions* | — | **1** Disagree |
 
-Expected result: **Eldar 100%**, others **50%**.
+Why this zeros the rest: each other faction has 5 items; Disagree on all five = `50 − 5×10 = 0%`.  
+Eldar: Agree on Q11–13 (+30) + Disagree on reverse Q14–15 (+20) = `50 + 50 = 100%`.
 
-![Eldar 100% result chart](docs/images/eldar-result-graphic.png)
+![Eldar 100%, others 0%](docs/images/eldar-result-graphic.png)
 
-Verified live result text: *You are Eldar (100%).*
+Verified live result: *You are Eldar (100%).* Chart query: `p=0,0,100,0,0,0,0,0`.
 
 > Tip: questions are **shuffled** in the UI. Match by question text / internal id, not by “Question 1 of 40”.
 
