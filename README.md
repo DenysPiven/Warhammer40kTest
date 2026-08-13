@@ -28,27 +28,88 @@ Full per-answer table: [`out/scoring_table.csv`](out/scoring_table.csv)
 
 ---
 
-## Example: how to get **Eldar (100%)**, everyone else **0%**
+## How to get **100%** for a faction (everyone else **0%**)
 
-Say **Agree** on only **3** Eldar questions; say **Disagree** on **all** remaining questions (including reverse Eldar items and every other faction).
+General recipe:
+
+1. **Agree (5)** on all **normal** items of your target faction  
+2. **Disagree (1)** on that faction’s **reverse** items (only Eldar Q14–15)  
+3. **Disagree (1)** on every other faction’s normal items  
+4. **Agree (5)** on foreign **reverse** items (Q14–15 when you are *not* aiming for Eldar) — otherwise Eldar stays at 40%
+
+> Questions are **shuffled** in the UI. Match by question text / id, not by “Question N of 40”.
+
+### Quick cheat sheet
+
+| Target | Agree (5) on | Disagree (1) on | Chart |
+|---|---|---|---|
+| Imperium of Man | Q1–5 + Q14–15 | everything else | `p=100,0,0,0,0,0,0,0` |
+| Chaos | Q6–10 + Q14–15 | everything else | `p=0,100,0,0,0,0,0,0` |
+| Eldar | Q11–13 | everything else (incl. reverse Q14–15) | `p=0,0,100,0,0,0,0,0` |
+| Dark Eldar | Q16–20 + Q14–15 | everything else | `p=0,0,0,100,0,0,0,0` |
+| Orks | Q21–25 + Q14–15 | everything else | `p=0,0,0,0,100,0,0,0` |
+| Tyranids | Q26–30 + Q14–15 | everything else | `p=0,0,0,0,0,100,0,0` |
+| Necrons | Q31–35 + Q14–15 | everything else | `p=0,0,0,0,0,0,100,0` |
+| T’au Empire | Q36–40 + Q14–15 | everything else | `p=0,0,0,0,0,0,0,100` |
+
+### Imperium of Man — 100%
+
+Agree: **Q1–5**, and reverse foreign **Q14–15**. Disagree: all else.
+
+![Imperium 100%](docs/images/imperium-100.png)
+
+### Chaos — 100%
+
+Agree: **Q6–10** + **Q14–15**. Disagree: all else.
+
+![Chaos 100%](docs/images/chaos-100.png)
+
+### Eldar — 100%
+
+Agree: **Q11–13** only. Disagree: **everything else** (including reverse **Q14–15**, which still boosts Eldar).
 
 | # | Question | Answer |
 |---|---|---|
-| **11** | I am deeply interested in the study of culture and history. | **5** Agree |
-| **12** | I tend to be suspicious of people I do not know. | **5** Agree |
-| **13** | People are sometimes startled by the keenness of my memory. | **5** Agree |
-| **14** | Philosophical discussions are mostly boring. | **1** Disagree *(reverse → still boosts Eldar)* |
-| **15** | I dislike going to art museums. | **1** Disagree *(reverse → still boosts Eldar)* |
-| *all other questions* | — | **1** Disagree |
+| 11 | I am deeply interested in the study of culture and history. | **5** Agree |
+| 12 | I tend to be suspicious of people I do not know. | **5** Agree |
+| 13 | People are sometimes startled by the keenness of my memory. | **5** Agree |
+| 14 | Philosophical discussions are mostly boring. | **1** Disagree *(reverse)* |
+| 15 | I dislike going to art museums. | **1** Disagree *(reverse)* |
+| *rest* | — | **1** Disagree |
 
-Why this zeros the rest: each other faction has 5 items; Disagree on all five = `50 − 5×10 = 0%`.  
-Eldar: Agree on Q11–13 (+30) + Disagree on reverse Q14–15 (+20) = `50 + 50 = 100%`.
+![Eldar 100%](docs/images/eldar-100.png)
 
-![Eldar 100%, others 0%](docs/images/eldar-result-graphic.png)
+### Dark Eldar — 100%
 
-Verified live result: *You are Eldar (100%).* Chart query: `p=0,0,100,0,0,0,0,0`.
+Agree: **Q16–20** + **Q14–15**. Disagree: all else.
 
-> Tip: questions are **shuffled** in the UI. Match by question text / internal id, not by “Question 1 of 40”.
+![Dark Eldar 100%](docs/images/dark-eldar-100.png)
+
+### Orks — 100%
+
+Agree: **Q21–25** + **Q14–15**. Disagree: all else.
+
+![Orks 100%](docs/images/orks-100.png)
+
+### Tyranids — 100%
+
+Agree: **Q26–30** + **Q14–15**. Disagree: all else.
+
+![Tyranids 100%](docs/images/tyranids-100.png)
+
+### Necrons — 100%
+
+Agree: **Q31–35** + **Q14–15**. Disagree: all else.
+
+![Necrons 100%](docs/images/necrons-100.png)
+
+### T’au Empire — 100%
+
+Agree: **Q36–40** + **Q14–15**. Disagree: all else.
+
+![T’au 100%](docs/images/tau-100.png)
+
+Machine-readable recipe dump: [`docs/images/faction_results.json`](docs/images/faction_results.json)
 
 ---
 
