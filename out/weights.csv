@@ -1,0 +1,41 @@
+question_key,position,question_id,question_text,Imperium of Man,Chaos,Eldar,Dark Eldar,Orks,Tyranids,Necrons,T’au Empire,delta_Imperium of Man,delta_Chaos,delta_Eldar,delta_Dark Eldar,delta_Orks,delta_Tyranids,delta_Necrons,delta_T’au Empire
+question_1,1,1,Being consistent is more important than being innovative.,60.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_2,2,2,Every person should have complete faith in some authority he obeys without question.,60.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_3,3,3,The world would be a better place if more people learned to shut up and do as they were told.,60.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_4,4,4,I know that many “innocent” things people do are really meant to be threatening towards me.,60.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_5,5,5,My country is better than all other countries.,60.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_6,6,6,I challenge norms and break rules if it benefits me.,50.0,60.0,50.0,50.0,50.0,50.0,50.0,50.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_7,7,7,"Achieving success often means being bold and unapologetic, even if others think you are out of line.",50.0,60.0,50.0,50.0,50.0,50.0,50.0,50.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_8,8,8,I am motivated by personal success and individual freedom.,50.0,60.0,50.0,50.0,50.0,50.0,50.0,50.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_9,9,9,"I have a strong desire to explore the unknown and walk my own path, even if doing so comes with certain risks.",50.0,60.0,50.0,50.0,50.0,50.0,50.0,50.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_10,10,10,"I don’t really feel remorse for my actions, even when they hurt others.",50.0,60.0,50.0,50.0,50.0,50.0,50.0,50.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+question_11,11,11,I am deeply interested in the study of culture and history.,50.0,50.0,60.0,50.0,50.0,50.0,50.0,50.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+question_12,12,12,I tend to be suspicious of people I do not know.,50.0,50.0,60.0,50.0,50.0,50.0,50.0,50.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+question_13,13,13,People are sometimes startled by the keenness of my memory.,50.0,50.0,60.0,50.0,50.0,50.0,50.0,50.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+question_14,14,14,Philosophical discussions are mostly boring.,50.0,50.0,40.0,50.0,50.0,50.0,50.0,50.0,0.0,0.0,-10.0,0.0,0.0,0.0,0.0,0.0
+question_15,15,15,I dislike going to art museums.,50.0,50.0,40.0,50.0,50.0,50.0,50.0,50.0,0.0,0.0,-10.0,0.0,0.0,0.0,0.0,0.0
+question_16,16,16,I manipulate others to get what I want.,50.0,50.0,50.0,60.0,50.0,50.0,50.0,50.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+question_17,17,17,"I enjoy outsmarting others, even if it involves scamming them or breaking the rules.",50.0,50.0,50.0,60.0,50.0,50.0,50.0,50.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+question_18,18,18,People who are weak deserve to be taken advantage of.,50.0,50.0,50.0,60.0,50.0,50.0,50.0,50.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+question_19,19,19,"With sex, partying, or drugs, it’s often as if I’m driven by a thrill where I cannot get enough.",50.0,50.0,50.0,60.0,50.0,50.0,50.0,50.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+question_20,20,20,I feel a sense of superiority when others around me are hurting.,50.0,50.0,50.0,60.0,50.0,50.0,50.0,50.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+question_21,21,21,I prefer a straightforward approach and tackle things head-on.,50.0,50.0,50.0,50.0,60.0,50.0,50.0,50.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+question_22,22,22,I find excitement in competition and physical challenges.,50.0,50.0,50.0,50.0,60.0,50.0,50.0,50.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+question_23,23,23,I value action over overthinking or planning too much.,50.0,50.0,50.0,50.0,60.0,50.0,50.0,50.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+question_24,24,24,Doing things that make me feel enthusiastic and joyful is essential if I am to motivate myself to do hard work.,50.0,50.0,50.0,50.0,60.0,50.0,50.0,50.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+question_25,25,25,I skip steps and cut corners to get things done faster.,50.0,50.0,50.0,50.0,60.0,50.0,50.0,50.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+question_26,26,26,I adapt quickly to new situations and environments.,50.0,50.0,50.0,50.0,50.0,60.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+question_27,27,27,I work well in a team and wouldn’t mind passing on personal glory for the team to achieve the best results.,50.0,50.0,50.0,50.0,50.0,60.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+question_28,28,28,"I rely on instinct and intuition when making decisions, especially in challenging situations.",50.0,50.0,50.0,50.0,50.0,60.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+question_29,29,29,I believe constant adaptation is crucial to overcome challenges and reach my goals.,50.0,50.0,50.0,50.0,50.0,60.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+question_30,30,30,I rarely let empathy or compassion hold me back from achieving what I set out to do.,50.0,50.0,50.0,50.0,50.0,60.0,50.0,50.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+question_31,31,31,I strive to maintain order and control in all aspects of my life.,50.0,50.0,50.0,50.0,50.0,50.0,60.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+question_32,32,32,I am willing to wait for days or weeks in silence for the perfect moment to execute my plans.,50.0,50.0,50.0,50.0,50.0,50.0,60.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+question_33,33,33,"I often feel a sense of nostalgia, longing for things lost or from the past.",50.0,50.0,50.0,50.0,50.0,50.0,60.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+question_34,34,34,I am meticulous and prefer to approach tasks with precision and control.,50.0,50.0,50.0,50.0,50.0,50.0,60.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+question_35,35,35,I aim to control future outcomes by strictly following rules and guidelines in my work.,50.0,50.0,50.0,50.0,50.0,50.0,60.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+question_36,36,36,I value cooperation and believe in working together for the betterment of all.,50.0,50.0,50.0,50.0,50.0,50.0,50.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+question_37,37,37,"I often try to find a logical, well-reasoned compromise to problems.",50.0,50.0,50.0,50.0,50.0,50.0,50.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+question_38,38,38,I value fairness and seek to create harmony in my environment.,50.0,50.0,50.0,50.0,50.0,50.0,50.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+question_39,39,39,I feel motivated to help others and support all of us in reaching our collective goals.,50.0,50.0,50.0,50.0,50.0,50.0,50.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+question_40,40,40,I value sharing in and learning from others' perspectives.,50.0,50.0,50.0,50.0,50.0,50.0,50.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+out_smoke/
+*.pyc
+.DS_Store
+.Python
+*.egg-info/

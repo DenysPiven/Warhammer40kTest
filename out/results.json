@@ -1,0 +1,402 @@
+{
+  "question_1": {
+    "Imperium of Man": 60.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_2": {
+    "Imperium of Man": 60.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_3": {
+    "Imperium of Man": 60.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_4": {
+    "Imperium of Man": 60.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_5": {
+    "Imperium of Man": 60.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_6": {
+    "Imperium of Man": 50.0,
+    "Chaos": 60.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_7": {
+    "Imperium of Man": 50.0,
+    "Chaos": 60.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_8": {
+    "Imperium of Man": 50.0,
+    "Chaos": 60.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_9": {
+    "Imperium of Man": 50.0,
+    "Chaos": 60.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_10": {
+    "Imperium of Man": 50.0,
+    "Chaos": 60.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_11": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 60.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_12": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 60.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_13": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 60.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_14": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 40.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_15": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 40.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_16": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 60.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_17": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 60.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_18": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 60.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_19": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 60.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_20": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 60.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_21": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 60.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_22": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 60.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_23": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 60.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_24": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 60.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_25": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 60.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_26": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 60.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_27": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 60.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_28": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 60.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_29": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 60.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_30": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 60.0,
+    "Necrons": 50.0,
+    "T’au Empire": 50.0
+  },
+  "question_31": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 60.0,
+    "T’au Empire": 50.0
+  },
+  "question_32": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 60.0,
+    "T’au Empire": 50.0
+  },
+  "question_33": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 60.0,
+    "T’au Empire": 50.0
+  },
+  "question_34": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 60.0,
+    "T’au Empire": 50.0
+  },
+  "question_35": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 60.0,
+    "T’au Empire": 50.0
+  },
+  "question_36": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 60.0
+  },
+  "question_37": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 60.0
+  },
+  "question_38": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 60.0
+  },
+  "question_39": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 60.0
+  },
+  "question_40": {
+    "Imperium of Man": 50.0,
+    "Chaos": 50.0,
+    "Eldar": 50.0,
+    "Dark Eldar": 50.0,
+    "Orks": 50.0,
+    "Tyranids": 50.0,
+    "Necrons": 50.0,
+    "T’au Empire": 60.0
+  }
+}

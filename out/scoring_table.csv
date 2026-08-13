@@ -1,0 +1,41 @@
+id,question,faction,reverse,a1_Disagree,a2,a3_Neutral,a4,a5_Agree
+1,Being consistent is more important than being innovative.,Imperium of Man,no,-10.0,-5.0,0.0,5.0,10.0
+2,Every person should have complete faith in some authority he obeys without question.,Imperium of Man,no,-10.0,-5.0,0.0,5.0,10.0
+3,The world would be a better place if more people learned to shut up and do as they were told.,Imperium of Man,no,-10.0,-5.0,0.0,5.0,10.0
+4,I know that many “innocent” things people do are really meant to be threatening towards me.,Imperium of Man,no,-10.0,-5.0,0.0,5.0,10.0
+5,My country is better than all other countries.,Imperium of Man,no,-10.0,-5.0,0.0,5.0,10.0
+6,I challenge norms and break rules if it benefits me.,Chaos,no,-10.0,-5.0,0.0,5.0,10.0
+7,"Achieving success often means being bold and unapologetic, even if others think you are out of line.",Chaos,no,-10.0,-5.0,0.0,5.0,10.0
+8,I am motivated by personal success and individual freedom.,Chaos,no,-10.0,-5.0,0.0,5.0,10.0
+9,"I have a strong desire to explore the unknown and walk my own path, even if doing so comes with certain risks.",Chaos,no,-10.0,-5.0,0.0,5.0,10.0
+10,"I don’t really feel remorse for my actions, even when they hurt others.",Chaos,no,-10.0,-5.0,0.0,5.0,10.0
+11,I am deeply interested in the study of culture and history.,Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+12,I tend to be suspicious of people I do not know.,Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+13,People are sometimes startled by the keenness of my memory.,Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+14,Philosophical discussions are mostly boring.,Eldar,yes,10.0,5.0,-0.0,-5.0,-10.0
+15,I dislike going to art museums.,Eldar,yes,10.0,5.0,-0.0,-5.0,-10.0
+16,I manipulate others to get what I want.,Dark Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+17,"I enjoy outsmarting others, even if it involves scamming them or breaking the rules.",Dark Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+18,People who are weak deserve to be taken advantage of.,Dark Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+19,"With sex, partying, or drugs, it’s often as if I’m driven by a thrill where I cannot get enough.",Dark Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+20,I feel a sense of superiority when others around me are hurting.,Dark Eldar,no,-10.0,-5.0,0.0,5.0,10.0
+21,I prefer a straightforward approach and tackle things head-on.,Orks,no,-10.0,-5.0,0.0,5.0,10.0
+22,I find excitement in competition and physical challenges.,Orks,no,-10.0,-5.0,0.0,5.0,10.0
+23,I value action over overthinking or planning too much.,Orks,no,-10.0,-5.0,0.0,5.0,10.0
+24,Doing things that make me feel enthusiastic and joyful is essential if I am to motivate myself to do hard work.,Orks,no,-10.0,-5.0,0.0,5.0,10.0
+25,I skip steps and cut corners to get things done faster.,Orks,no,-10.0,-5.0,0.0,5.0,10.0
+26,I adapt quickly to new situations and environments.,Tyranids,no,-10.0,-5.0,0.0,5.0,10.0
+27,I work well in a team and wouldn’t mind passing on personal glory for the team to achieve the best results.,Tyranids,no,-10.0,-5.0,0.0,5.0,10.0
+28,"I rely on instinct and intuition when making decisions, especially in challenging situations.",Tyranids,no,-10.0,-5.0,0.0,5.0,10.0
+29,I believe constant adaptation is crucial to overcome challenges and reach my goals.,Tyranids,no,-10.0,-5.0,0.0,5.0,10.0
+30,I rarely let empathy or compassion hold me back from achieving what I set out to do.,Tyranids,no,-10.0,-5.0,0.0,5.0,10.0
+31,I strive to maintain order and control in all aspects of my life.,Necrons,no,-10.0,-5.0,0.0,5.0,10.0
+32,I am willing to wait for days or weeks in silence for the perfect moment to execute my plans.,Necrons,no,-10.0,-5.0,0.0,5.0,10.0
+33,"I often feel a sense of nostalgia, longing for things lost or from the past.",Necrons,no,-10.0,-5.0,0.0,5.0,10.0
+34,I am meticulous and prefer to approach tasks with precision and control.,Necrons,no,-10.0,-5.0,0.0,5.0,10.0
+35,I aim to control future outcomes by strictly following rules and guidelines in my work.,Necrons,no,-10.0,-5.0,0.0,5.0,10.0
+36,I value cooperation and believe in working together for the betterment of all.,T’au Empire,no,-10.0,-5.0,0.0,5.0,10.0
+37,"I often try to find a logical, well-reasoned compromise to problems.",T’au Empire,no,-10.0,-5.0,0.0,5.0,10.0
+38,I value fairness and seek to create harmony in my environment.,T’au Empire,no,-10.0,-5.0,0.0,5.0,10.0
+39,I feel motivated to help others and support all of us in reaching our collective goals.,T’au Empire,no,-10.0,-5.0,0.0,5.0,10.0
+40,I value sharing in and learning from others' perspectives.,T’au Empire,no,-10.0,-5.0,0.0,5.0,10.0
